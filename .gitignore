@@ -1,0 +1,7 @@
+TestModulizedACategory.xcodeproj/xcuserdata/
+TestModulizedACategory.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+TestModulizedACategory.xcodeproj/project.xcworkspace/xcuserdata/

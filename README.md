@@ -1,2 +1,1 @@
-# TestModulizecACategory
-Test Modulized A Category
+pod "TestModulizedACategory"
